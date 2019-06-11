@@ -9,7 +9,7 @@ from time import sleep
 
 bar = CliProgressBar()
 
-for i in range(100):
+for i in range(101):
 	bar.display_progress(i/100)
 	sleep(0.1)
 ```
