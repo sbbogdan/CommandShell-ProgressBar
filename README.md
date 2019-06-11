@@ -1,5 +1,5 @@
 # CommandShell-ProgressBar
-Command shell progress bar class for use with python CLI apps. Code should be self explanatory, inline documented.
+Command shell progress bar class for use with python CLI apps. percent_complete parameter should always be 0.0 <= percent_complete <= 1.0.
 
 Code sample:
 
