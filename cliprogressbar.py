@@ -10,7 +10,7 @@ class CliProgressBar:
 	def __init__(self):
 		self.reset()
 
-	# display latest progress to screen
+	# display latest progress to console
 	def display_progress(self, percent_complete=0):
 		# throw exception if value not between 0 and 1
 		if not (0 <= percent_complete <= 1):
