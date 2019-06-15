@@ -16,3 +16,7 @@ for i in range(101):
 	bar.display_progress(i/100)
 	sleep(0.1)
 ```
+
+**Output sample**:
+
+![image](https://github.com/sbbogdan/CommandShell-ProgressBar/blob/master/progressbar_sample.png)
